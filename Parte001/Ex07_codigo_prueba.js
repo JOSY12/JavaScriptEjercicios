@@ -10,4 +10,4 @@ setTimeout(() => {
     console.log('Este texto se mostrará pasados 5 segundos');
 }, 5000);
 
-console.log('Fin!');
+console.log('Fin!');   
